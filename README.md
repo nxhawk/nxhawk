@@ -10,10 +10,10 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://www.facebook.com/haonhat0703" alt="Facebook">
+  <a href="https://www.facebook.com/hawknhat73" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/mynamehao-fre" alt="Github">
+  <a href="https://github.com/nxhawk" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCIt3ocQo4auctYjfPNsLNig" alt="Youtube channel" target="_blank" >
