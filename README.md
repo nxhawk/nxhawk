@@ -80,12 +80,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=092E20" alt="Django logo" title="Django" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=Visual%20Studio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sublime Text-282C34?logo=Sublime Text&logoColor=FF9800" alt="Sublime Text logo" title="Sublime Text" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
@@ -95,8 +89,6 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/LaTex-282C34?logo=LaTex&logoColor=008080" alt="LaTex logo" title="LaTex" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/PowerPoint-282C34?logo=Microsoft%20PowerPoint&logoColor=B7472A" alt="PowerPoint logo" title="PowerPoint" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Scratch-282C34?logo=Scratch&logoColor=4D97FF" alt="Scratch logo" title="Scratch" height="25" /></span>
 &nbsp;
