@@ -10,12 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: zwacky/goodreads-profile-readme@main
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          GOODREADS_USER_ID: "nxhawk"
-          SHELF: "currently-reading"
-          TEMPLATE: "- 📖 **{title}** by *{author}*"
-          COMMENT_TAG: "GOODREADS-CURRENTLY-READING"
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
+          feed_list: "https://www.goodreads.com/review/list_rss/200266565-h-o-nguy-n?shelf=currently-reading"
+          comment_tag_name: "GOODREADS-CURRENTLY-READING"
+          template: "- 📖 **$title** by *$author*"
+          max_post_count: 5
           commit_message: "docs: update currently reading books"
