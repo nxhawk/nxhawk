@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyen%20Nhat%20Hao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%C2%B7%20Vietnam&descSize=18&descAlignY=52" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,10:1a1b4b,30:4c1d95,50:7c3aed,70:a78bfa,90:c084fc,100:f0abfc&height=200&section=header&text=Nguyen%20Nhat%20Hao&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Fullstack%20Developer%20%C2%B7%20Vietnam&descSize=18&descAlignY=50&descColor=c4b5fd" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Software+Engineer+%40+HCM;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -109,6 +109,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28"> *Thanks for visiting! Have a great day!* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="28">
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,10:1a1b4b,30:4c1d95,50:7c3aed,70:a78bfa,90:c084fc,100:f0abfc&height=120&section=footer&reversal=true" width="100%" />
 
 </div>
