@@ -85,9 +85,10 @@
 
 [![Goodreads](https://img.shields.io/badge/Goodreads-nxhawk-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/nxhawk)
 
-<!-- GOODREADS-CURRENTLY-READING:START -->- 📖 **Giết con chim nhại** by *$author*- 📖 **SQL Performance Explained** by *$author*- 📖 **Chú bé mang pyjama sọc** by *$author*- 📖 **Tuổi Trẻ Đáng Giá Bao Nhiêu** by *$author*- 📖 **Ông Già và Biển Cả** by *$author*<!-- GOODREADS-CURRENTLY-READING:END -->
-
 </div>
+
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 ---
 
