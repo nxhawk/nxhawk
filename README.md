@@ -79,6 +79,19 @@
 
 ---
 
+## 📚 Currently Reading
+
+<div align="center">
+
+[![Goodreads](https://img.shields.io/badge/Goodreads-nxhawk-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/nxhawk)
+
+<!-- GOODREADS-CURRENTLY-READING:START -->
+<!-- GOODREADS-CURRENTLY-READING:END -->
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
