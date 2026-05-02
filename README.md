@@ -79,18 +79,6 @@
 
 ---
 
-## 📚 Currently Reading
-
-<div align="center">
-
-[![Goodreads](https://img.shields.io/badge/Goodreads-nxhawk-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/nxhawk)
-
-</div>
-
-<!-- GOODREADS-LIST:START --><table><tr><td align="center" width="180"><a href="https://www.goodreads.com/review/show/8513985749?utm_medium=api&utm_source=rss"><img src="" width="128" alt="Giết con chim nhại" /><br/><strong>Giết con chim nhại</strong><br/><sub>by $author</sub></a></td></tr></table><table><tr><td align="center" width="180"><a href="https://www.goodreads.com/review/show/8551734055?utm_medium=api&utm_source=rss"><img src="" width="128" alt="SQL Performance Explained" /><br/><strong>SQL Performance Explained</strong><br/><sub>by $author</sub></a></td></tr></table><table><tr><td align="center" width="180"><a href="https://www.goodreads.com/review/show/8540296248?utm_medium=api&utm_source=rss"><img src="" width="128" alt="Chú bé mang pyjama sọc" /><br/><strong>Chú bé mang pyjama sọc</strong><br/><sub>by $author</sub></a></td></tr></table><table><tr><td align="center" width="180"><a href="https://www.goodreads.com/review/show/8513991878?utm_medium=api&utm_source=rss"><img src="" width="128" alt="Tuổi Trẻ Đáng Giá Bao Nhiêu" /><br/><strong>Tuổi Trẻ Đáng Giá Bao Nhiêu</strong><br/><sub>by $author</sub></a></td></tr></table><table><tr><td align="center" width="180"><a href="https://www.goodreads.com/review/show/8513985154?utm_medium=api&utm_source=rss"><img src="" width="128" alt="Ông Già và Biển Cả" /><br/><strong>Ông Già và Biển Cả</strong><br/><sub>by $author</sub></a></td></tr></table><!-- GOODREADS-LIST:END -->
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
