@@ -68,7 +68,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> GitHub Stats
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="24"> Contribution Snake
 
 <div align="center">
 
@@ -93,7 +93,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"> Connect With Me
 
 <div align="center">
 
